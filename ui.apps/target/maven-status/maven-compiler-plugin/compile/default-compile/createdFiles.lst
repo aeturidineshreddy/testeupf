@@ -1,0 +1,9 @@
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\xfpage\customheaderlibs_html.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\page\customfooterlibs_html.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\page\customheaderlibs_html.class
+org\apache\sling\scripting\sightly\apps\sling\servlet\errorhandler\_404_html.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\page\customheadlibs_amp_html.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\xfpage\customfooterlibs_html.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\helloworld\helloworld_html.class
+apps\sling\servlet\errorhandler\ResponseStatus.class
+org\apache\sling\scripting\sightly\apps\eupfadmin\components\xfpage\content_html.class

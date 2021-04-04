@@ -1,0 +1,5 @@
+com\eupfadmin\core\filters\LoggingFilterTest.class
+com\eupfadmin\core\servlets\SimpleServletTest.class
+com\eupfadmin\core\schedulers\SimpleScheduledTaskTest.class
+com\eupfadmin\core\listeners\SimpleResourceListenerTest.class
+com\eupfadmin\core\models\HelloWorldModelTest.class

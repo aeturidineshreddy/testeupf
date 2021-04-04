@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.4
+Build-Jdk-Spec: 11
+Implementation-Title: EUPF Admin - All
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.eupfadmin:eupfadmin.all:1.0.0-SNAPSHOT
+Content-Package-Description: All content package for EUPF Admin
+Content-Package-Roots: /apps/eupfadmin-packages,/apps/eupfadmin-vendor-p
+ ackages
+

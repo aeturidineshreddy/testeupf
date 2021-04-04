@@ -1,0 +1,11 @@
+com\eupfadmin\core\models\HelloWorldModel.class
+com\eupfadmin\core\schedulers\SimpleScheduledTask.class
+com\eupfadmin\core\filters\package-info.class
+com\eupfadmin\core\models\package-info.class
+com\eupfadmin\core\listeners\SimpleResourceListener.class
+com\eupfadmin\core\schedulers\SimpleScheduledTask$Config.class
+com\eupfadmin\core\filters\LoggingFilter.class
+com\eupfadmin\core\servlets\package-info.class
+com\eupfadmin\core\listeners\package-info.class
+com\eupfadmin\core\schedulers\package-info.class
+com\eupfadmin\core\servlets\SimpleServlet.class

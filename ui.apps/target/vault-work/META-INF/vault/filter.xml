@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/eupfadmin/clientlibs"/>
+    <filter root="/apps/eupfadmin/components"/>
+    <filter root="/apps/eupfadmin/i18n"/>
+</workspaceFilter>

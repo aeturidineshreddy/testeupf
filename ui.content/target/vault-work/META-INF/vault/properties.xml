@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>EUPF Admin - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.eupfadmin:eupfadmin.ui.apps:1.0.0-SNAPSHOT=maven:com.eupfadmin:eupfadmin.ui.apps:1.0.0-SNAPSHOT:zip</entry>
+<entry key="created">2021-04-04T15:28:34.578Z</entry>
+<entry key="groupId">com.eupfadmin</entry>
+<entry key="description">UI content package for EUPF Admin</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.eupfadmin:eupfadmin.ui.apps:1.0.0-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">eupfadmin.ui.content</entry>
+<entry key="artifactId">eupfadmin.ui.content</entry>
+<entry key="group">com.eupfadmin</entry>
+</properties>

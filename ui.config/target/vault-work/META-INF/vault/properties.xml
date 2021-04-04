@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>EUPF Admin - UI config</comment>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2021-04-04T15:28:37.427Z</entry>
+<entry key="groupId">com.eupfadmin</entry>
+<entry key="name">eupfadmin.ui.config</entry>
+<entry key="description">UI config package for EUPF Admin</entry>
+<entry key="artifactId">eupfadmin.ui.config</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.eupfadmin</entry>
+</properties>
